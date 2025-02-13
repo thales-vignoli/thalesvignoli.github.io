@@ -65504,7 +65504,7 @@ return A.O($async$dE,r)},
 qK(){var s=0,r=A.P(t.H)
 var $async$qK=A.L(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=2
-return A.U(A.yQ(A.dU("pdf/resume.pdf",0,null),B.C8),$async$qK)
+return A.U(A.yQ(A.dU("./assets/pdf/resume.pdf",0,null),B.C8),$async$qK)
 case 2:if(!b)throw A.e(A.bB("Could not launch resume"))
 return A.N(null,r)}})
 return A.O($async$qK,r)},
